@@ -45,7 +45,7 @@ I enjoy transforming healthcare datasets into meaningful insights that support c
 ## 📂 Current Interests
 - AI-driven healthcare solutions
 - Healthcare predictive analytics
-- Clinical data science
+- Clinical data science & Analysis
 - Medical NLP
 - Digital health innovation
 
