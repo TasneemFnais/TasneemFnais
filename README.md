@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I’m a healthcare data scientist with a background in Clinical Field as a Laboratory Technologist.
+I'm a healthcare data scientist with a clinical background as a Laboratory Technologist.
 
 My interests focus on:
 - Healthcare Analytics & Data Analysis
