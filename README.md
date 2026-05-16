@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Tasneem Fnais
 
-<!--
-**TasneemFnais/TasneemFnais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Health Data Science Graduate from Universit of Birmingham
+🧬 Healthcare Data Scientist | Clinical Analytics | Machine Learning 
+📍 Riyadh, Saudi Arabia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a healthcare data scientist with a background in Clinical Laboratory Science and nearly 3 years of experience in transfusion medicine.
+
+My interests focus on:
+- Healthcare Analytics
+- Machine Learning in Healthcare
+- Predictive Modelling
+- Clinical AI Applications
+- Data Visualization
+
+I enjoy transforming healthcare datasets into meaningful insights that support clinical and operational decision-making.
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+`Python` `R` `SQL`
+
+### Machine Learning & AI
+`Scikit-learn` `TensorFlow` `PyTorch`
+
+### NLP
+`spaCy` `HuggingFace`
+
+### Data Analysis
+`pandas` `NumPy` `tidyverse`
+
+### Visualization
+`ggplot2` `matplotlib` `Power BI`
+
+---
+
+## 📂 Current Interests
+- AI-driven healthcare solutions
+- Healthcare predictive analytics
+- Clinical data science
+- Medical NLP
+- Digital health innovation
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/tesneemfnais
+- Email: tasneemfnais@gmail.com
