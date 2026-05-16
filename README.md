@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Tasneem Fnais
 
 🎓 MSc Health Data Science Graduate from Universit of Birmingham
+
 🧬 Healthcare Data Scientist | Clinical Analytics | Machine Learning 
+
 📍 Riyadh, Saudi Arabia
 
 ---
@@ -11,7 +13,7 @@
 I’m a healthcare data scientist with a background in Clinical Laboratory Science and nearly 3 years of experience in transfusion medicine.
 
 My interests focus on:
-- Healthcare Analytics
+- Healthcare Analytics & Data Analysis
 - Machine Learning in Healthcare
 - Predictive Modelling
 - Clinical AI Applications
