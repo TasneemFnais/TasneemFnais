@@ -18,6 +18,7 @@ My interests focus on:
 - Data Visualization
 
 I enjoy transforming healthcare datasets into meaningful insights that support clinical and operational decision-making.
+
 ---
 ## 🛠️ Technical Skills
 ### Languages
@@ -38,7 +39,8 @@ I enjoy transforming healthcare datasets into meaningful insights that support c
 - Medical NLP
 - Digital health innovation
 
-**Long-term goal:** To become a pioneer in healthcare analytics and contribute to national-scale healthcare data initiatives that drive measurable impact.
+**Goal:** To become a pioneer in healthcare analytics and contribute to national-scale healthcare data initiatives that drive measurable impact.
+
 ---
 ## 📫 Connect With Me
 - 💼 LinkedIn: [tesneemfnais](https://www.linkedin.com/in/tesneemfnais)
