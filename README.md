@@ -54,3 +54,11 @@ I enjoy transforming healthcare datasets into meaningful insights that support c
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/tesneemfnais
 - Email: tasneemfnais@gmail.com
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
