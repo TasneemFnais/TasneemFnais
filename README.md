@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I’m a healthcare data scientist with a background in Clinical Laboratory Science and nearly 3 years of experience in transfusion medicine.
+I’m a healthcare data scientist with a background in Clinical Field as a Laboratory Technologist.
 
 My interests focus on:
 - Healthcare Analytics & Data Analysis
@@ -55,8 +55,3 @@ I enjoy transforming healthcare datasets into meaningful insights that support c
 - LinkedIn: www.linkedin.com/in/tesneemfnais
 - Email: tasneemfnais@gmail.com
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TasneemFnais&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TasneemFnais&layout=compact)
